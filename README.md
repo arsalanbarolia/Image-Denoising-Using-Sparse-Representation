@@ -13,7 +13,7 @@
 
 <p align="justify">
 
-<b>Abstract</b> – In this paper, the importance of denoising images will be discussed along with analyzing different aspects of sparse representation. This paper will also be exploring different methods others have proposed to ensure that sparse representation is constantly being improved and modified to achieve the best enhanced and noise-free image possible. A variety of techniques will be discussed which include compressive sensing, block matching, segmentation, redundant representations, learning/adaptive dictionaries, and general equations that were modified to incorporate the methods mentioned. This paper will also include figures and tables that will depict the result of the proposed methods as well as indulge in some of the limitations that it may pose.
+In this paper, the importance of denoising images will be discussed along with analyzing different aspects of sparse representation. This paper will also be exploring different methods others have proposed to ensure that sparse representation is constantly being improved and modified to achieve the best enhanced and noise-free image possible. A variety of techniques will be discussed which include compressive sensing, block matching, segmentation, redundant representations, learning/adaptive dictionaries, and general equations that were modified to incorporate the methods mentioned. This paper will also include figures and tables that will depict the result of the proposed methods as well as indulge in some of the limitations that it may pose.
 
 </p>
 

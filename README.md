@@ -2,6 +2,8 @@
 
 # Image Denoising Using Sparse Representation via Compressive Sensing, Block Matching, Segmentation, and Redudant Representations
 
+> The full research [report](files/Image-Denoising-Research-Paper.pdf) and [presentation](files/Image-Denoising-Presentation.pdf) can be viewed.
+
 ### Table of Contents
 
 - [Abstract](#abstract)
@@ -19,7 +21,6 @@ In this paper, the importance of denoising images will be discussed along with a
 
 <b><em>Keywords – adaptive learning, block matching, dictionaries, redundant representation, segmentation, sparse representation</em></b>
 
-> The full research [report](files/Image-Denoising-Research-Paper.pdf) and [presentation](files/Image-Denoising-Presentation.pdf) can be viewed.
 
 [Back To The Top](#project)
 
@@ -29,9 +30,9 @@ In this paper, the importance of denoising images will be discussed along with a
 
 <h4> Arsalan Barolia</h4>
 
-- LinkedIn - [https://www.linkedin.com/in/arsalanbarolia/](https://www.linkedin.com/in/arsalanbarolia/)
-- GitHub - [https://github.com/arsalanbarolia](https://github.com/arsalanbarolia)
-- Website - [Enter domain here](enter domain here)
+- LinkedIn - [linkedin.com/in/arsalanbarolia](https://www.linkedin.com/in/arsalanbarolia)
+- GitHub - [github.com/arsalanbarolia](https://github.com/arsalanbarolia)
+- Website - [arsalanbarolia.com](https://arsalanbarolia.com)
 
 <p></p>
 
